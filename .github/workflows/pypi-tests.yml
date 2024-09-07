@@ -22,8 +22,8 @@ jobs:
         rm -rf ./tenda_everest
     - name: Install package from PyPi
       run: |
-        python -m pip install --upgrade pip
-        pip install -U tenda-everest
+        python -m pip install --no-cache-dir --upgrade pip
+        pip install -U --no-cache-dir tenda-everest
     - name: Install Dev Requirements
       run: |
         pip install -r dev-requirements.txt
