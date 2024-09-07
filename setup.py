@@ -37,7 +37,7 @@ def get_value_from_package_info(line, value, old_value):
 PACKAGE_NAME = "tenda_everest"
 
 PROJECT_URLS = {
-    'Documentation': 'https://tenda-everest.craftman.lol',
+    'Documentation': 'https://quillcraftsman.github.io/tenda-everest',
     'Source': 'https://github.com/quillcraftsman/tenda-everest',
     'Tracker': 'https://github.com/quillcraftsman/tenda-everest/issues',
     'Release notes': 'https://github.com/quillcraftsman/tenda-everest/releases',

@@ -97,12 +97,12 @@ Be free to use, fork, clone and contribute.
 ## Requirements
 
 - requests
-- See more in [Full Documentation](https://tenda-everest.craftsman.lol/about.html#requirements)
+- See more in [Full Documentation](https://quillcraftsman.github.io/tenda-everest/about.html#requirements)
 
 ## Development Status
 
 - Package already available on [PyPi](https://pypi.org/project/tenda-everest/)
-- See more in [Full Documentation](https://tenda-everest.craftsman.lol/about.html#development-status)
+- See more in [Full Documentation](https://quillcraftsman.github.io/tenda-everest/about.html#development-status)
 
 ## Install
 
@@ -112,7 +112,7 @@ Be free to use, fork, clone and contribute.
 pip install tenda-everest
 ```
 
-See more in [Full Documentation](https://tenda-everest.craftsman.lol/install.html)
+See more in [Full Documentation](https://quillcraftsman.github.io/tenda-everest/install.html)
 
 ## Quickstart
 
@@ -129,10 +129,10 @@ print(info())
 You are welcome! To easy start please check:
 - [Full Documentation][documentation_path]
 - [Contributing](CONTRIBUTING.md)
-- [Developer Documentation](https://tenda-everest.craftsman.lol/dev_documentation.html)
+- [Developer Documentation](https://quillcraftsman.github.io/tenda-everest/dev_documentation.html)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Security Policy](SECURITY.md)
 - [Governance](GOVERNANCE.md)
 - [Support](SUPPORT.md)
 
-[documentation_path]: https://tenda-everest.craftsman.lol
+[documentation_path]: https://quillcraftsman.github.io/tenda-everest
