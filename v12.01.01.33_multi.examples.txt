@@ -1,0 +1,15 @@
+http://10.173.7.211:8081/goform/getHomePageInfo??random=0.37546801752695846&modules=loginAuth,wifiRelay
+http://10.173.7.211:8081/goform/getStatus?random=0.008002568520880549&modules=internetStatus,deviceStatistics,systemInfo,wanAdvCfg
+http://10.173.7.211:8081/goform/getWAN?0.6800180561540222=&modules=internetStatus
+http://10.173.7.211:8081/goform/getWAN?random=0.13262705387122975&modules=lanCfg,wanBasicCfg,wanAdvCfg,internetStatus
+http://10.173.7.211:8081/goform/getWifi?0.48748204191666955=&modules=wifiAdvCfg,wifiTime
+http://10.173.7.211:8081/goform/getWifi?random=0.964325119634537&modules=wifiEn,wifiBasicCfg,wifiAdvCfg,wifiPower,wifiTime,wifiWPS
+http://10.173.7.211:8081/goform/getQos?random=0.7227449516358969&modules=localhost,onlineList,blackList
+http://10.173.7.211:8081/goform/getWifiRelay?random=0.2977282984888068&modules=wifiEn%2CwifiRelay
+http://10.173.7.211:8081/goform/getQos??random=0.9122857382762711&modules=localhost,onlineList,blackList
+http://10.173.7.211:8081/goform/getParentControl?random=0.6234278390597141&modules=parentCtrlList,parentAccessCtrl
+http://10.173.7.211:8081/goform/getNAT?0.2765616824131101=&modules=ddns
+http://10.173.7.211:8081/goform/getNAT?random=0.4009191262145818&modules=staticIPList,portList,ddns,dmz,upnp,lanCfg
+http://10.173.7.211:8081/goform/getNAT?0.645456203545996=&modules=ddns
+http://10.173.7.211:8081/goform/getSysTools?0.9006648912763681=&modules=sysTime
+http://10.173.7.211:8081/goform/getSysTools?random=0.07916970103058285&modules=loginAuth,wanAdvCfg,lanCfg,softWare,wifiRelay,sysTime,remoteWeb,isWifiClients,systemInfo

@@ -78,8 +78,11 @@ You can find **Full Project Documentation** [here][documentation_path]
 ## Mission
 
 `tenda-everest` is python package to manage Tenda Everest router.
-This package was tested on **EVEREST EWR-F303** Wireless Router with **Tenda** firmware **V02.03.01.125** 
-(and similar). But this package may work on different routers with other firmwares.
+
+This package was tested on **EVEREST EWR-F303** Wireless Router with **Tenda** firmware **V02.03.01.125**. 
+It also works with **V12.01.01.33_multi** but may be with some problems.
+It could work with other similar firmwares.
+But this package may work on different routers with other firmwares.
 
 ![Everest ewr-f303 router picture](https://github.com/quillcraftsman/tenda-everest/blob/main/everest.jpeg)
 
@@ -117,9 +120,27 @@ See more in [Full Documentation](https://quillcraftsman.github.io/tenda-everest/
 ## Quickstart
 
 ```python
-from tenda_everest import info
+import pprint
+import requests
+from tenda_everest import login, get_info, MODULES, request_firmware 
 
-print(info())
+host = 'http://192.168.0.1:8081'  # There is device located
+
+session = login(requests, host)  # connect to device and login
+
+firmware = request_firmware(host, session)  # check router firmware
+print(firmware)
+
+modules = (  # What do you want to know
+    MODULES.systemInfo,
+    MODULES.wanBasicCfg,
+    MODULES.wifiBasicCfg,
+    MODULES.softWare,
+)
+
+info = get_info(host, session, modules, firmware=firmware)
+
+pprint.pprint(info)
 ```
 
 ### More examples in [Full Documentation][documentation_path]
