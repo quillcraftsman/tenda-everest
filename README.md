@@ -1,66 +1,66 @@
-# PyGenesis
+# TendaEverest
 
-Python package repository template
+Python package to manage Tenda Everest router
 
 You can find **Full Project Documentation** [here][documentation_path]
 
 <hr>
 
 #### Workflows
-[![Tests](https://github.com/libresource/pygenesis/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/libresource/pygenesis/actions/workflows/run-tests.yml)
-[![Pylint](https://github.com/libresource/pygenesis/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/libresource/pygenesis/actions/workflows/lint.yml)
+[![Tests](https://github.com/quillcraftsman/tenda-everest/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/quillcraftsman/tenda-everest/actions/workflows/run-tests.yml)
+[![Pylint](https://github.com/quillcraftsman/tenda-everest/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/quillcraftsman/tenda-everest/actions/workflows/lint.yml)
 
 #### Package
-[![Version](https://img.shields.io/pypi/v/pygenesis.svg)](https://pypi.python.org/pypi/pygenesis/)
-[![Development Status](https://img.shields.io/pypi/status/pygenesis.svg)](https://pypi.python.org/pypi/pygenesis)
-[![Python version](https://img.shields.io/pypi/pyversions/pygenesis.svg)](https://pypi.python.org/pypi/pygenesis/)
-[![License](https://img.shields.io/pypi/l/pygenesis)](https://github.com/libresource/pygenesisblob/main/LICENSE)
-[![Wheel](https://img.shields.io/pypi/wheel/pygenesis.svg)](https://pypi.python.org/pypi/pygenesis/)
+[![Version](https://img.shields.io/pypi/v/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest/)
+[![Development Status](https://img.shields.io/pypi/status/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest)
+[![Python version](https://img.shields.io/pypi/pyversions/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest/)
+[![License](https://img.shields.io/pypi/l/tenda-everest)](https://github.com/quillcraftsman/tenda-everestblob/main/LICENSE)
+[![Wheel](https://img.shields.io/pypi/wheel/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest/)
 
 #### Support
 [![Documentation](https://img.shields.io/badge/docs-0094FF.svg)][documentation_path]
-[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/libresource/pygenesis/discussions/)
-[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/libresource/pygenesis/issues/)
+[![Discussions](https://img.shields.io/badge/discussions-ff0068.svg)](https://github.com/quillcraftsman/tenda-everest/discussions/)
+[![Issues](https://img.shields.io/badge/issues-11AE13.svg)](https://github.com/quillcraftsman/tenda-everest/issues/)
 
 #### Downloads
-[![Day Downloads](https://img.shields.io/pypi/dd/pygenesis)](https://pepy.tech/project/pygenesis)
-[![Week Downloads](https://img.shields.io/pypi/dw/pygenesis)](https://pepy.tech/project/pygenesis)
-[![Month Downloads](https://img.shields.io/pypi/dm/pygenesis)](https://pepy.tech/project/pygenesis)
-[![All Downloads](https://img.shields.io/pepy/dt/pygenesis)](https://pepy.tech/project/pygenesis)
+[![Day Downloads](https://img.shields.io/pypi/dd/tenda-everest)](https://pepy.tech/project/tenda-everest)
+[![Week Downloads](https://img.shields.io/pypi/dw/tenda-everest)](https://pepy.tech/project/tenda-everest)
+[![Month Downloads](https://img.shields.io/pypi/dm/tenda-everest)](https://pepy.tech/project/tenda-everest)
+[![All Downloads](https://img.shields.io/pepy/dt/tenda-everest)](https://pepy.tech/project/tenda-everest)
 
 #### Languages
-[![Languages](https://img.shields.io/github/languages/count/libresource/pygenesis)](https://github.com/libresource/pygenesis)
-[![Top Language](https://img.shields.io/github/languages/top/libresource/pygenesis)](https://github.com/libresource/pygenesis)
+[![Languages](https://img.shields.io/github/languages/count/quillcraftsman/tenda-everest)](https://github.com/quillcraftsman/tenda-everest)
+[![Top Language](https://img.shields.io/github/languages/top/quillcraftsman/tenda-everest)](https://github.com/quillcraftsman/tenda-everest)
 
 #### Development
-- [![Release date](https://img.shields.io/github/release-date/libresource/pygenesis
-)](https://github.com/libresource/pygenesis/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/libresource/pygenesis/main
-)](https://github.com/libresource/pygenesis)
-- [![Issues](https://img.shields.io/github/issues/libresource/pygenesis
-)](https://github.com/libresource/pygenesis/issues/)
-[![Closed Issues](https://img.shields.io/github/issues-closed/libresource/pygenesis
-)](https://github.com/libresource/pygenesis/issues/)
-- [![Pull Requests](https://img.shields.io/github/issues-pr/libresource/pygenesis
-)](https://github.com/libresource/pygenesis/pulls)
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/libresource/pygenesis
-)](https://github.com/libresource/pygenesis/pulls)
-- [![Discussions](https://img.shields.io/github/discussions/libresource/pygenesis
-)](https://github.com/libresource/pygenesis/discussions/)
+- [![Release date](https://img.shields.io/github/release-date/quillcraftsman/tenda-everest
+)](https://github.com/quillcraftsman/tenda-everest/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/quillcraftsman/tenda-everest/main
+)](https://github.com/quillcraftsman/tenda-everest)
+- [![Issues](https://img.shields.io/github/issues/quillcraftsman/tenda-everest
+)](https://github.com/quillcraftsman/tenda-everest/issues/)
+[![Closed Issues](https://img.shields.io/github/issues-closed/quillcraftsman/tenda-everest
+)](https://github.com/quillcraftsman/tenda-everest/issues/)
+- [![Pull Requests](https://img.shields.io/github/issues-pr/quillcraftsman/tenda-everest
+)](https://github.com/quillcraftsman/tenda-everest/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/quillcraftsman/tenda-everest
+)](https://github.com/quillcraftsman/tenda-everest/pulls)
+- [![Discussions](https://img.shields.io/github/discussions/quillcraftsman/tenda-everest
+)](https://github.com/quillcraftsman/tenda-everest/discussions/)
 
 [//]: # (#### Repository Stats)
 
-[//]: # ([![Stars]&#40;https://img.shields.io/github/stars/libresource/pygenesis)
+[//]: # ([![Stars]&#40;https://img.shields.io/github/stars/quillcraftsman/tenda-everest)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/pygenesis&#41;)
+[//]: # (&#41;]&#40;https://github.com/quillcraftsman/tenda-everest&#41;)
 
-[//]: # ([![Contributors]&#40;https://img.shields.io/github/contributors/libresource/pygenesis)
+[//]: # ([![Contributors]&#40;https://img.shields.io/github/contributors/quillcraftsman/tenda-everest)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/pygenesisgraphs/contributors&#41;)
+[//]: # (&#41;]&#40;https://github.com/quillcraftsman/tenda-everestgraphs/contributors&#41;)
 
-[//]: # ([![Forks]&#40;https://img.shields.io/github/forks/libresource/pygenesis)
+[//]: # ([![Forks]&#40;https://img.shields.io/github/forks/quillcraftsman/tenda-everest)
 
-[//]: # (&#41;]&#40;https://github.com/libresource/pygenesis&#41;)
+[//]: # (&#41;]&#40;https://github.com/quillcraftsman/tenda-everest&#41;)
 
 <hr>
 
@@ -77,9 +77,11 @@ You can find **Full Project Documentation** [here][documentation_path]
 
 ## Mission
 
-PyGenesis is a comprehensive Python package template designed to kickstart your projects instantly. 
-With a clean and organized structure, it provides a hassle-free starting point for developers. 
-Effortlessly begin your Python endeavors, focusing on your code, not the setup. Jumpstart your creativity with PyGenesis.
+`tenda-everest` is python package to manage Tenda Everest router.
+This package was tested on **EVEREST EWR-F303** Wireless Router with **Tenda** firmware **V02.03.01.125** 
+(and similar). But this package may be can work on different routers with other firmwares.
+
+![Everest ewr-f303 router picture](https://github.com/quillcraftsman/tenda-everest/blob/main/everest.jpeg)
 
 ## Open Source Project
 
@@ -88,50 +90,34 @@ Be free to use, fork, clone and contribute.
 
 ## Features
 
-- This README (Change it for your python project)
-- This template base on [libresource/open-source-checklist](https://github.com/libresource/open-source-checklist). 
-It contains may useful files for open source project: ([CHECKLIST.md](CHECKLIST.md), [CONTRIBUTING.md](CONTRIBUTING.md), 
-[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), and much more). 
-- `setup.py` for build your package
-- `requirements.txt` and `dev-requirements.txt`
-- `Makefile` with main commands to work with the project
-  - run tests
-  - calculate coverage
-  - lint
-  - build and install package
-  - generate autodocumentation
-  - others
-- GitHub workflows 
-  - generate documentation
-  - run tests with coverage
-  - run linter
-  - publish your package in PyPi
-  - greetings for new contributors
+- Connect to router by web interface (DONE)
+- Get all information from router (like wi-fi settings, firmware, and all others) (DONE)
+- Mange router (turn on wps, add port forwarding, ...) (PLAN)
 
 ## Requirements
 
-- pytest, pytest-cov, pylint, yamllint, sphinx, sphinx_rtd_theme
-- See more in [Full Documentation](https://pygenesis.libresource.info/about.html#requirements)
+- requests
+- See more in [Full Documentation](https://tenda-everest.craftsman.lol/about.html#requirements)
 
 ## Development Status
 
-- Package already available on [PyPi](https://pypi.org/project/pygenesis/)
-- See more in [Full Documentation](https://pygenesis.libresource.info/about.html#development-status)
+- Package already available on [PyPi](https://pypi.org/project/tenda-everest/)
+- See more in [Full Documentation](https://tenda-everest.craftsman.lol/about.html#development-status)
 
 ## Install
 
 ### with pip
 
 ```commandline
-pip install pygenesis
+pip install tenda-everest
 ```
 
-See more in [Full Documentation](https://pygenesis.libresource.info/install.html)
+See more in [Full Documentation](https://tenda-everest.craftsman.lol/install.html)
 
 ## Quickstart
 
 ```python
-from pygenesis import info
+from tenda_everest import info
 
 print(info())
 ```
@@ -143,10 +129,10 @@ print(info())
 You are welcome! To easy start please check:
 - [Full Documentation][documentation_path]
 - [Contributing](CONTRIBUTING.md)
-- [Developer Documentation](https://pygenesis.libresource.info/dev_documentation.html)
+- [Developer Documentation](https://tenda-everest.craftsman.lol/dev_documentation.html)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Security Policy](SECURITY.md)
 - [Governance](GOVERNANCE.md)
 - [Support](SUPPORT.md)
 
-[documentation_path]: https://pygenesis.libresource.info
+[documentation_path]: https://tenda-everest.craftsman.lol

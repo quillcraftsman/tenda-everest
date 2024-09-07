@@ -20,7 +20,7 @@ install:
 uninstall:
 	pip uninstall pygenesis -y
 	rm -rf dist
-	rm -rf django_dry_tests.egg-info
+	rm -rf tenda_everest.egg-info
 
 reinstall:
 	make uninstall
@@ -37,4 +37,4 @@ sphinx-help:
 	make help -f Sphinxfile
 
 package_docs:
-	sphinx-apidoc -o docs/package pygenesis/
+	sphinx-apidoc -o docs/package tenda_everest/

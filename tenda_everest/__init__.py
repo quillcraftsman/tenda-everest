@@ -1,4 +1,4 @@
 """
-PyGenesis package
+TendaEverest package
 """
 from .main import info

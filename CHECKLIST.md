@@ -37,4 +37,3 @@
 - [x] Build
 - [x] Deploy
 - [x] Build and Deploy documentation
-- [x] [New User Greetings](https://github.com/libresource/open-source-checklist#new-user-greetings)

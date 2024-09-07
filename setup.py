@@ -34,15 +34,15 @@ def get_value_from_package_info(line, value, old_value):
     return None
 
 
-PACKAGE_NAME = "pygenesis"
+PACKAGE_NAME = "tenda_everest"
 
 PROJECT_URLS = {
-    'Documentation': 'https://pygenesis.libresource.info',
-    'Source': 'https://github.com/libresource/pygenesis',
-    'Tracker': 'https://github.com/libresource/pygenesis/issues',
-    'Release notes': 'https://github.com/libresource/pygenesis/releases',
-    'Changelog': 'https://github.com/libresource/pygenesis/releases',
-    'Download': 'https://pypi.org/project/pygenesis/',
+    'Documentation': 'https://tenda-everest.craftman.lol',
+    'Source': 'https://github.com/quillcraftsman/tenda-everest',
+    'Tracker': 'https://github.com/quillcraftsman/tenda-everest/issues',
+    'Release notes': 'https://github.com/quillcraftsman/tenda-everest/releases',
+    'Changelog': 'https://github.com/quillcraftsman/tenda-everest/releases',
+    'Download': 'https://pypi.org/project/tenda-everest/',
 }
 
 with open_local([PACKAGE_NAME, "package.py"]) as fp:
@@ -74,13 +74,13 @@ setup(
 
     include_package_data=True,
     license="MIT",
-    description="Python package repository template",
+    description="Python package to manage Tenda Everest router",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
-    url="https://github.com/libresource/pygenesis",
+    url="https://github.com/quillcraftsman/tenda-everest",
     author="quillcraftsman",
     author_email="quill@craftsman.lol",
-    keywords=["python", "package", "template-repository"],
+    keywords=["python", "package", "everest", "tenda", "router", "manage"],
     # install_requires=[
     #     'Django==4.2.6',
     # ],
@@ -90,11 +90,13 @@ setup(
         "Intended Audience :: Developers",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
-        'Environment :: Console',
+        'Environment :: Other Environment',
         "Operating System :: OS Independent",
         "Topic :: Software Development",
-        "Topic :: Software Development :: Libraries",
-        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Topic :: Communications",
+        "Topic :: Internet",
+        "Topic :: Security",
+        "Topic :: System :: Networking",
     ],
     project_urls= PROJECT_URLS,
 )

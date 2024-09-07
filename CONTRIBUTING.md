@@ -36,5 +36,5 @@ and patterns in the existing code-base.
 
 You can check [Developer Documentation](https://pygenesis.libresource.info/dev_documentation.html) to easy start with code
 
-[issues-path]: https://github.com/libresource/pygenesis/issues
-[discussions-path]: https://github.com/libresource/pygenesis/discussions
+[issues-path]: https://github.com/quillcraftsman/tenda-everest/issues
+[discussions-path]: https://github.com/quillcraftsman/tenda-everest/discussions

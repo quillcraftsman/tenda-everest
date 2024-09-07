@@ -1,9 +1,9 @@
-PyGenesis
+tenda-everest
 ================
 
 Python package repository template
 
-Project on `GitHub <https://github.com/libresource/pygenesis>`_
+Project on `GitHub <https://github.com/quillcraftsman/tenda-everest>`_
 
 - :ref:`Mission`
 - :ref:`Open Source Project`
@@ -14,40 +14,22 @@ Project on `GitHub <https://github.com/libresource/pygenesis>`_
 Mission
 -------
 
-PyGenesis is a comprehensive Python package template designed to kickstart your projects instantly.
-With a clean and organized structure, it provides a hassle-free starting point for developers.
-Effortlessly begin your Python endeavors, focusing on your code, not the setup. Jumpstart your creativity with PyGenesis.
+**tenda-everest** is python package to manage Tenda Everest router.
+This package was tested on **EVEREST EWR-F303** Wireless Router with **Tenda** firmware **V02.03.01.125**
+(and similar). But this package may be can work on different routers with other firmwares.
 
 Open Source Project
 -------------------
 
-This is the open source project with `MIT license <https://github.com/libresource/pygenesis/blob/main/LICENSE>`_.
+This is the open source project with `MIT license <https://github.com/quillcraftsman/tenda-everest/blob/main/LICENSE>`_.
 Be free to use, fork, clone and contribute.
 
 Features
 --------
 
-- This README (Change it for your python project)
-- This template base on `libresource/open-source-checklist <https://github.com/libresource/open-source-checklist>`_.
-It contains may useful files for open source project: (`CHECKLIST.md <https://github.com/libresource/pygenesis/blob/main/CHECKLIST.md>`_,
-`CONTGIBUTING.md <https://github.com/libresource/pygenesis/blob/main/CONTRIBUTING.md>`_,
-`CODE_OF_CONDUCT.md <https://github.com/libresource/pygenesis/blob/main/CODE_OF_CONDUCT.md>`_, and much more).
-
-- `setup.py` for build your package
-- `requirements.txt` and `dev-requirements.txt`
-- `Makefile` with main commands to work with the project
-- - run tests
-- - calculate coverage
-- - lint
-- - build and install package
-- - generate autodocumentation
-- - others
-- GitHub workflows
-- - generate documentation
-- - run tests with coverage
-- - run linter
-- - publish your package in PyPi
-- - greetings for new contributors
+- Connect to router by web interface (DONE)
+- Get all information from router (like wi-fi settings, firmware, and all others) (DONE)
+- Mange router (turn on wps, add port forwarding, ...) (PLAN)
 
 Requirements
 ------------
@@ -63,4 +45,4 @@ Development Status
 
 - |development_status|
 
-`Project on PyPi <https://pypi.org/project/pygenesis>`_
+`Project on PyPi <https://pypi.org/project/tenda-everest>`_
