@@ -93,7 +93,8 @@ def get_request_urls(firmware=DEFAULT_FIRMWARE, modules=None):
     """
     get different urls for request
     """
-    if firmware == 'V12.01.01.33_multi':
+    # if firmware == 'V12.01.01.33_multi':
+    if 'multi' in firmware:
         module_urls = {
             MODULES.systemInfo: 'getStatus',
             MODULES.wanBasicCfg: 'getWAN',

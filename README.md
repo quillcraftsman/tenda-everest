@@ -80,7 +80,7 @@ You can find **Full Project Documentation** [here][documentation_path]
 `tenda-everest` is python package to manage Tenda Everest router.
 
 This package was tested on **EVEREST EWR-F303** Wireless Router with **Tenda** firmware **V02.03.01.125**. 
-It also works with **V12.01.01.33_multi** but may be with some problems.
+It also works with **V12.01.01.33_multi** and **V12.01.01.32_multi** but may be with some problems.
 It could work with other similar firmwares.
 But this package may work on different routers with other firmwares.
 
