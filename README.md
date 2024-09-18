@@ -14,7 +14,7 @@ You can find **Full Project Documentation** [here][documentation_path]
 [![Version](https://img.shields.io/pypi/v/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest/)
 [![Development Status](https://img.shields.io/pypi/status/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest)
 [![Python version](https://img.shields.io/pypi/pyversions/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest/)
-[![License](https://img.shields.io/pypi/l/tenda-everest)](https://github.com/quillcraftsman/tenda-everestblob/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/tenda-everest)](https://github.com/quillcraftsman/tenda-everest/blob/main/LICENSE)
 [![Wheel](https://img.shields.io/pypi/wheel/tenda-everest.svg)](https://pypi.python.org/pypi/tenda-everest/)
 
 #### Support
